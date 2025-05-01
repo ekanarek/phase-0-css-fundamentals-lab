@@ -34,3 +34,10 @@ figcaption {
   margin: auto;
   text-align: center;
 }
+
+#details div {
+  float: left;
+  background: rgb(224, 167, 167);
+  text-align: center;
+  width: 25%;
+}
