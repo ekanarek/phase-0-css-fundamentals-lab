@@ -12,3 +12,13 @@ img {
   display: block;
   margin: auto;
 }
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: rgb(224, 167, 167);
+}
